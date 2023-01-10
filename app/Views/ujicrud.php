@@ -7,7 +7,7 @@
         <div class="card-header">
           <div class="row">
             <div class="col-10 mt-2">
-              <h3 class="card-title">ujicrud</h3>
+              <h3 class="card-title">ujicrud tes</h3>
             </div>
             <div class="col-2">
               <button type="button" class="btn float-right btn-success" onclick="save()" title="<?= lang("App.new") ?>"> <i class="fa fa-plus"></i>   <?= lang('App.new') ?></button>
